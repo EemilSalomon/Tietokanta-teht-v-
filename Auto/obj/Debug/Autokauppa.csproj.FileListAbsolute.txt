@@ -1,0 +1,9 @@
+C:\Koulu\Tietokannan hyödyntäminen\autotehtävä\Auto\bin\Debug\Auto.exe.config
+C:\Koulu\Tietokannan hyödyntäminen\autotehtävä\Auto\bin\Debug\Auto.exe
+C:\Koulu\Tietokannan hyödyntäminen\autotehtävä\Auto\bin\Debug\Auto.pdb
+C:\Koulu\Tietokannan hyödyntäminen\autotehtävä\Auto\obj\Debug\Autokauppa.csprojAssemblyReference.cache
+C:\Koulu\Tietokannan hyödyntäminen\autotehtävä\Auto\obj\Debug\Autokauppa.view.MainMenu.resources
+C:\Koulu\Tietokannan hyödyntäminen\autotehtävä\Auto\obj\Debug\Autokauppa.csproj.GenerateResource.cache
+C:\Koulu\Tietokannan hyödyntäminen\autotehtävä\Auto\obj\Debug\Autokauppa.csproj.CoreCompileInputs.cache
+C:\Koulu\Tietokannan hyödyntäminen\autotehtävä\Auto\obj\Debug\Auto.exe
+C:\Koulu\Tietokannan hyödyntäminen\autotehtävä\Auto\obj\Debug\Auto.pdb
